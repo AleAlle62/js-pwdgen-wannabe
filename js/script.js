@@ -14,13 +14,13 @@ Infine scrivi sulla pagina nomecognomecolorepreferito22
 
 // variabili 
 
-let nombre = prompt ('quale è il tuo nome?') 
+const nombre = prompt ('quale è il tuo nome?') 
 
-let surname = prompt ('quale è il tuo congome?')
+const surname = prompt ('quale è il tuo congome?')
 
-let color = prompt ('quale è il tuo colore preferito?') 
+const color = prompt ('quale è il tuo colore preferito?') 
 
-let venti = nombre + surname + color + 22
+const venti = nombre + surname + color + 22
 
 
 // collegamenti
