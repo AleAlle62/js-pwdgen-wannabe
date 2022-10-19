@@ -1,0 +1,32 @@
+
+html {
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+
+#nome {
+    background-color: blue;
+    border-radius: 10px;
+}
+
+#cognome {
+    background-color: blueviolet;
+    border-radius: 10px;
+}
+
+#colore {
+    border-radius: 10px;
+    background-color: chartreuse;
+}
+
+#due {
+    border-radius: 10px;
+    background-color: darkorange;
+}
+
+
+div {
+    margin-top: 20px;
+}
