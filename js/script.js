@@ -25,12 +25,12 @@ const venti = nombre + surname + color + 22
 
 // collegamenti
 
-document.getElementById('nome').innerHTML = nombre;
+window.document.getElementById('nome').innerHTML = nombre;
 
-document.getElementById('cognome').innerHTML = surname;
+window.document.getElementById('cognome').innerHTML = surname;
 
-document.getElementById('colore').innerHTML = color;
+window.document.getElementById('colore').innerHTML = color;
 
-document.getElementById('due').innerHTML = venti;
+window.document.getElementById('due').innerHTML = venti;
 
 
